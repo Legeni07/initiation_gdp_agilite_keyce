@@ -20,8 +20,11 @@ Année: 2001
 
 ### liens utiles 
 https://agilemanifesto.org/
+
 https://scrumguides.org/scrum-guide.html
+
 https://trello.com/
+
 https://www.atlassian.com/
 
 
